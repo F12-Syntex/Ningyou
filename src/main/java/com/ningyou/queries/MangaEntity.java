@@ -17,19 +17,6 @@ public class MangaEntity extends QueryEntity{
 		this.manga = entity.manga;
 	}
 	
-	/*
-	public ChapterManager retrieveChapterManagerFromQuery(MangaEntity entity) {
-		return this.manga.retrieveChapterManagerFromQuery(entity);
-	}
-	public ChapterManager getChapters() {
-		return this.manga.retrieveChapterManagerFromQuery(this);
-	}
-	
-	public Callable<Pages> getPagesLater(String mangaURL) {
-		return this.manga.getPagesLater(mangaURL);
-	}
-	*/
-	
 	public Manga asManga() {
 		Manga manga = this.manga.getMangaFromMangaEntity(this);
 		return manga;
