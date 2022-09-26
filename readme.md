@@ -8,6 +8,14 @@ Here is a list of the current media that this framework supports
 ## Manga
  - MangaStream
  - MangaTo
+## Anime 
+Currently not supported
+## Movies 
+Currently not supported
+## Books 
+Currently not supported
+## TV series 
+Currently not supported
 
 
 ## Example Usage
