@@ -2,6 +2,13 @@
 
 Ningyou is a media framework designed to give programmers access to labeled data that has been scraped from a variety of content sources, such as anime, manga, movies, books and more.
 
+# Media
+Here is a list of the current media that this framework supports
+
+## Manga
+ - MangaStream
+ - MangaTo
+
 
 ## Example Usage
 
